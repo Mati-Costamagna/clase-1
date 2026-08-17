@@ -1,3 +1,4 @@
 # clase-1
 
-DEMO GitHub
+DEMO Electronica Digital 2
+
